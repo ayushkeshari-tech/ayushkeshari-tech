@@ -55,11 +55,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayushkeshari-tech&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ayushkeshari-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushkeshari-tech&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkeshari-tech&theme=dark&hide_border=false&layout=compact)
 
 ---
 
