@@ -1,4 +1,4 @@
-# # 👋 About Me
+## 👨‍💻 About Me
 
 - 🔭 **Currently working on:** Improving my problem-solving skills through Java and DSA, exploring new technologies, and building practical solutions in IoT and backend development.
 
