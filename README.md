@@ -1,5 +1,16 @@
-# 💫 About Me:
-1. 🔭 Currently working on<br>Improving my problem-solving skills through Java and DSA, exploring new technologies, and building practical solutions in IoT and backend development.<br><br><br>2. 👯 Looking to collaborate on<br>Java applications, backend development, IoT projects, frontend development, smart automation, and open-source projects.<br><br><br>3. 🤝 Looking for help with<br>Advanced DSA, Spring Boot, backend development, cloud computing, and scalable software applications.<br><br><br>4. 🌱 Currently learning<br>Data Structures and Algorithms in Java, Spring Boot, backend development, Computer Networks, IoT Protocols, and Cloud Technologies.<br><br><br>5. 💬 Ask me about<br>Java, DSA, IoT, Raspberry Pi, ESP32, Computer Networks, and sensor integration.<br><br><br>6. ⚡ Fun fact<br>I love exploring new technologies, building innovative IoT projects, and turning creative ideas into real-world solutions. I also enjoy leading teams and learning something new with every project.
+# # 👋 About Me
+
+- 🔭 **Currently working on:** Improving my problem-solving skills through Java and DSA, exploring new technologies, and building practical solutions in IoT and backend development.
+
+- 🤝 **Looking to collaborate on:** Java applications, backend development, IoT projects, frontend development, smart automation, and open-source projects.
+
+- 🆘 **Looking for help with:** Advanced DSA, Spring Boot, backend development, cloud computing, and scalable software applications.
+
+- 🌱 **Currently learning:** Data Structures and Algorithms in Java, Spring Boot, backend development, Computer Networks, IoT Protocols, and Cloud Technologies.
+
+- 💬 **Ask me about:** Java, DSA, IoT, Raspberry Pi, ESP32, Computer Networks, and sensor integration.
+
+- ⚡ **Fun fact:** I love exploring new technologies, building innovative IoT projects, and turning creative ideas into real-world solutions. I also enjoy leading teams and learning something new with every project.
 
 
 ## 🌐 Socials:
