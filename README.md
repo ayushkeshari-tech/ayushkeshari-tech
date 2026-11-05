@@ -53,16 +53,30 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ayushkeshari-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkeshari-tech&theme=dark&hide_border=false&layout=compact)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushkeshari-tech&label=Profile%20Views&color=0e75b6&style=flat)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ayushkeshari-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkeshari-tech&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushkeshari-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
