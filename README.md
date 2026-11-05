@@ -64,15 +64,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ayushkeshari-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ayushkeshari-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="500" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushkeshari-tech&theme=dark&hide_border=false" width="500" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkeshari-tech&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkeshari-tech&theme=dark&hide_border=false&layout=compact" width="500" alt="Top Languages" />
 </p>
 
 ---
